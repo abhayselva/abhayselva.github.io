@@ -20,8 +20,9 @@ body {
 }
 .marg {
   position: absolute;
-  margin: 8%;
+  margin: 15%;
   margin-left: 39%;
+  margin-right: 33%;
 }
 img {
   height: 40px;
